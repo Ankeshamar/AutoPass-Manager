@@ -16,3 +16,6 @@ git clone https://github.com/ankesh_amar/auto-password-manager.git
 cd auto-password-manager
 chmod +x password_manager.sh
 ./password_manager.sh
+
+## 📄 Project Documentation
+📂 [Download the Project PDF](./Documentation.pdf)
